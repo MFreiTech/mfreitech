@@ -11,7 +11,7 @@ I'm a passionate web developer with expertise in Laravel, Node.js, and React. We
 
 ## 🔭 Projects
 
-Here is a project you should check out! [Circuit JS](https://github.com/MFreiTech/circuitjs1) : This is a circuit simulator Web-app and allows the Copmuter Architecture I Class to start with hardware studying.
+Here is a project you should check out! [Circuit JS](https://github.com/MFreiTech/circuitjs1) : This is a circuit simulator Web-app that allows the current Computer Architecture I class to get used with hardware studying.
 
 Feel free to explore my repositories for more projects and code contributions!
 
